@@ -1,0 +1,15 @@
+{
+  "name": "verify-code-primary",
+  "version": "1.0.0",
+  "description": "create random number for build verify code to send with sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "verify",
+    "code"
+  ],
+  "author": "Masoud Zarjani",
+  "license": "MIT"
+}
