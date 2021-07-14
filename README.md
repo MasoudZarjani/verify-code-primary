@@ -12,5 +12,5 @@ npm install verify-code-primary
 
 ```
 var verifyCodePrimary = require('verify-code-primary');
-var result = verifyCodePrimary.Generate();
+var result = verifyCodePrimary.Generate(5);
 ```

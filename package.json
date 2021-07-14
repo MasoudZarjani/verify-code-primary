@@ -1,6 +1,6 @@
 {
   "name": "verify-code-primary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create random number for build verify code to send with sms",
   "main": "index.js",
   "scripts": {
