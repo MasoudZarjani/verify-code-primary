@@ -11,5 +11,9 @@
     "code"
   ],
   "author": "Masoud Zarjani",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MasoudZarjani/verify-code-primary"
+  }
 }
